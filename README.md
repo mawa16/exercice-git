@@ -1,1 +1,7 @@
 "Bienvenue dans mon premier d‚p“t Git !" 
+"" 
+"## Objectif" 
+"Apprendre Git pas … pas." 
+"" 
+"## Auteur" 
+"Moussa Diop - L3 GLSI" 
