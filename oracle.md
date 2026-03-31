@@ -1,0 +1,5 @@
+"# Questions IA" 
+"" 
+"1. Comment diagnostiquer une maladie ?" 
+"2. Quels sont les sympt“mes du paludisme ?" 
+"3. Comment pr‚venir les infections ?" 
